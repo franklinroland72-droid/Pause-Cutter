@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 """
+Fait avec Claudes.
+
 Suppression automatique des pauses dans une video de presentation
 ou dans un fichier audio seul.
 
